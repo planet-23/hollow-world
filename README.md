@@ -1,2 +1,0 @@
-# hollow-world
-test
